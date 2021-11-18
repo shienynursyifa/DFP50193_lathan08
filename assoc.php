@@ -11,7 +11,7 @@
 <body>
     <?php
     $peserta = [
-        'nama' => 'Nur Syafiqa Syazwani',
+        'nama' => 'SHIENY NUR SYIFA ',
         'umur' => '20',
         'jantina' =>'Perempuan',
     ];?>
